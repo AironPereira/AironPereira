@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AironPereira
+- 👋 Hi, I’m @Airon Pereira
 - 👀 I’m interested in PHP, JS, SQL.
 - 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on ...
